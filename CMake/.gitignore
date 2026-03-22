@@ -1,0 +1,6 @@
+build/
+build-*/
+.vscode/
+CMakeUserPresets.json
+.idea/
+imgui.ini
